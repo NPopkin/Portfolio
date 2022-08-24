@@ -5,5 +5,10 @@
 <img align="left" width="100" height="100" src="https://github.com/NPopkin/Portfolio/blob/main/Pictures/dog_news_img.jpg"> **[Dog News Exlploritory Analysis and Topic Modeling](https://github.com/NPopkin/DogNews)**
 
 In progress
+##
 
-#
+<img align="left" width="100" height="100" src="https://github.com/NPopkin/Portfolio/blob/main/Pictures/sales-prediciton.png"> **[Predict Future Sales](https://github.com/NPopkin/DogNews)**
+
+In progress
+
+
